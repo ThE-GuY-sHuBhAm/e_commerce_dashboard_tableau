@@ -1,4 +1,4 @@
-# 📊 E-Commerce Sales & Profit Analysis — Tableau
+# E-Commerce Sales & Profit Analysis — Tableau
 
 ![Made with Tableau](https://img.shields.io/badge/Made%20with-Tableau-2f4b90)
 ![Status](https://img.shields.io/badge/Status-Live%20on%20Tableau%20Public-00b894)
