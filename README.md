@@ -64,8 +64,6 @@ The Tableau *Story* contains **6 sub-stories**:
 ---
 
 ## Calculated Fields
-> Adjust field names if your dataset differs.
-
 - **Quantity Label** (demand segmentation)
   ```tableau
   IF [Quantity] >10 THEN 'high'
